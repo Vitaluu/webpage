@@ -1,5 +1,5 @@
 {
-	"version": "02f03774",
+	"version": "02f03775",
 	"scripts": ["https://stage.ics-it.ru/uikit-demo/vendors~main.bundle.js"],
 	"styles": false,
 	"entryPoint": "https://stage.ics-it.ru/uikit-demo/main.bundle.js",
